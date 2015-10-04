@@ -1,19 +1,19 @@
 analytics: {}
 color:
   brandColors:
-    - '#FFFFFF'
+    - '#ffffff'
     - '#040718'
-    - '#00B8FB'
-    - '#1C3CB7'
-    - '#6572E5'
+    - '#00b8fb'
+    - '#1c3cb7'
+    - '#6572e5'
   brandStrength: 0
   lightness: 0.5
-  rhythmicContrast: 0.285472
-  saturation: 0.722973
+  rhythmicContrast: 0
+  saturation: 0.5
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.7696
 name: e-blog
 opengraph: {}
 purpose:
   - name: shares
-typography_spectrum: 0.27807
+typography_spectrum: 0.194256
