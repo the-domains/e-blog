@@ -1,30 +1,19 @@
-name: null
-favicon: null
-layout_spectrum: 0.7696
-typography_spectrum: 0.27807
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
+    - '#FFFFFF'
     - '#040718'
-    - '#00b8fb'
-    - '#1c3cb7'
-    - '#6572e5'
+    - '#00B8FB'
+    - '#1C3CB7'
+    - '#6572E5'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  rhythmicContrast: 0.285472
+  saturation: 0.722973
+cta: {}
+layout_spectrum: 1
+name: e-blog
+opengraph: {}
 purpose:
   - name: shares
-    item: null
-    url: null
+typography_spectrum: 0.27807
